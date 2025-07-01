@@ -1,0 +1,1 @@
+pyinstaller --onefile --noconsole gui/app.py

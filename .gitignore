@@ -1,0 +1,7 @@
+.vscode/
+# Ignore node_modules directory
+.venv/
+__pycache__/
+*.pyc
+recordings/
+build/
